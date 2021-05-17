@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercise Files.iml" filepath="$PROJECT_DIR$/.idea/Exercise Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-account/bank-account.iml" filepath="$PROJECT_DIR$/bank-account/bank-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-account/bankacc.cmd.api/bankacc.cmd.api.iml" filepath="$PROJECT_DIR$/bank-account/bankacc.cmd.api/bankacc.cmd.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-account/bankacc.core/bankacc.core.iml" filepath="$PROJECT_DIR$/bank-account/bankacc.core/bankacc.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-account/bankacc.query.api/bankacc.query.api.iml" filepath="$PROJECT_DIR$/bank-account/bankacc.query.api/bankacc.query.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-management/user-management.iml" filepath="$PROJECT_DIR$/user-management/user-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-management/user.cmd.api/user.cmd.api.iml" filepath="$PROJECT_DIR$/user-management/user.cmd.api/user.cmd.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-management/user.core/user.core.iml" filepath="$PROJECT_DIR$/user-management/user.core/user.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-management/user.oauth2.0/user.oauth2.0.iml" filepath="$PROJECT_DIR$/user-management/user.oauth2.0/user.oauth2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-management/user.query.api/user.query.api.iml" filepath="$PROJECT_DIR$/user-management/user.query.api/user.query.api.iml" />
+    </modules>
+  </component>
+</project>

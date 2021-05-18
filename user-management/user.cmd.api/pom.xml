@@ -81,15 +81,10 @@
 			<artifactId>user.core</artifactId>
 			<version>1.0.0</version>
 		</dependency>
-	</dependencies>
-
-	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-		</plugins>
-	</build>
-
+        <dependency>
+            <groupId>com.springbank</groupId>
+            <artifactId>user-core-api</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>
